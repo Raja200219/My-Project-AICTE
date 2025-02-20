@@ -17,8 +17,10 @@ Features
 ✅ Real-World Applications: Useful in cybersecurity, digital forensics, and secure communication.
 
 Technology Used
+
 🔹 Programming Language: Python
-🔹 Libraries: OpenCV, NumPy, Pillow (PIL), Steganography Tool
+
+🔹 Libraries: OpenCV, NumPy,Steganography Tool
 
 Installation & Usage
 1. Clone the Repository
