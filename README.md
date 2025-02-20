@@ -1,4 +1,6 @@
 Secure Data Hiding in Images Using Steganography
+
+
 Overview
 This project implements steganography to securely hide encrypted messages inside images, ensuring confidential communication. It utilizes Python and various image-processing libraries to embed and extract hidden messages while maintaining image quality.
 
@@ -45,6 +47,9 @@ Protecting confidential business data from unauthorized access.
 Journalists & whistleblowers using secure information transfer.
 Digital watermarking for copyright protection.
 Future Scope
+
 🚀 Extending steganography to audio, video, and PDFs for enhanced security.
+
 🚀 Improving encryption techniques for higher resistance against attacks.
+
 🚀 Creating a GUI-based tool for better usability.
