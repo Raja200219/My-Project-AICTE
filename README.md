@@ -5,10 +5,15 @@ Overview
 This project implements steganography to securely hide encrypted messages inside images, ensuring confidential communication. It utilizes Python and various image-processing libraries to embed and extract hidden messages while maintaining image quality.
 
 Features
+
 ✅ Message Encryption & Decryption: Ensures double-layered security before hiding the message.
+
 ✅ Image-Based Data Hiding: Conceals text messages within images without altering their appearance.
+
 ✅ Efficient Extraction: Securely retrieves the hidden message from the image.
+
 ✅ Lightweight & Fast Processing: Uses optimized Python libraries for quick execution.
+
 ✅ Real-World Applications: Useful in cybersecurity, digital forensics, and secure communication.
 
 Technology Used
